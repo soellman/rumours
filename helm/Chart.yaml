@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Rumours - a secret spreading operator
+name: rumours
+version: 0.1.0
